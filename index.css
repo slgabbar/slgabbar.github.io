@@ -3,6 +3,11 @@ html, body {
 	width: 100%;	
 }
 
+.navbar {
+	background-color: #f54242;
+	filter: brightness(65%);
+}
+
 
 .profile {
 	height: 45%;
